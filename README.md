@@ -2,7 +2,7 @@
 
 > **1K $0.015** · model ID `grok-imagine-2.0-ext` · **リバース/逆解析** route.
 
-**[料金を見る](https://go.apimart.ai/k-b5f7df)** · **[APIキーを取得](https://go.apimart.ai/k-2e8900)**
+**[料金を見る](https://go.apimart.ai/k-e4e275)** · **[APIキーを取得](https://go.apimart.ai/k-2e8900)**
 
 grok-imagine-2.0-ext-reverse-api-ja は **リバース** の Grok Imagine 2.0 Ext ルートです。呼び出し ID は `grok-imagine-2.0-ext`、公式ルート（`grok-imagine-image-2.0`）と並行提供で単価が低くなります。
 
